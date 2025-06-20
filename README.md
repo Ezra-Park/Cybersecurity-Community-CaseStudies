@@ -1,19 +1,19 @@
 # Cybersecurity Community Case Studies
 
-## 🎯 Portfolio Overview
+## Portfolio Overview
 
 This repository presents a collection of my hands-on volunteer cybersecurity consulting and IT support engagements for various community organizations and small businesses. These case studies highlight my practical application of cybersecurity principles, including risk assessment, vulnerability mitigation, technical control implementation, and security awareness training, all tailored to environments with limited dedicated IT resources. My goal in these roles was to significantly enhance the cybersecurity posture and digital resilience of these valuable community assets.
 
 ---
 
-## 📄 Case Study 1: Comprehensive Security Enhancement for a Local Service Business
+## Case Study 1: Comprehensive Security Enhancement for a Local Service Business
 
-### 🤝 Client & Role
+### Client & Role
 * **Client:** A Small Local Service Business
 * **My Role:** Cybersecurity Volunteer Consultant
 * **Engagement Period:** February 2025 - April 2025
 
-### ☁️ Identified Challenges & Risks
+### Identified Challenges & Risks
 The business, typical of many small operations, initially faced common cybersecurity challenges due to a lack of dedicated IT/security personnel. Key areas of concern included:
 
 * **Absence of Formal Security Policies:** No documented guidelines for secure practices, password management, or data handling.
@@ -21,7 +21,7 @@ The business, typical of many small operations, initially faced common cybersecu
 * **Outdated Systems & Configurations:** Exposure to known vulnerabilities from unpatched software and default configurations.
 * **Limited Cybersecurity Awareness:** Employees lacked formal training on recognizing common cyber threats like phishing, or understanding basic cyber hygiene.
 
-### 🧠 My Methodology & Solutions Implemented
+### My Methodology & Solutions Implemented
 My approach involved a collaborative effort with the business owners to identify critical assets and implement practical, high-impact security measures tailored to their operational needs.
 
 1.  **Asset Identification & Initial Threat Assessment:**
@@ -46,27 +46,27 @@ My approach involved a collaborative effort with the business owners to identify
         * **Strong Passwords & MFA:** Best practices for creating unique, strong passwords and the benefits of multi-factor authentication setup.
         * **Secure Device Use:** Guidelines for securing personal devices (e.g., screen locking, public Wi-Fi safety).
 
-### 📈 Impact & Results
+### Impact & Results
 * **Reduced Attack Surface:** Immediate exposure to common vulnerabilities was significantly reduced by establishing patching routines and tightening network firewall rules.
 * **Enhanced Foundational Security:** Implemented fundamental security policies that provide a clear framework for current operations and serve as a basis for future security growth.
 * **Increased Cybersecurity Awareness:** Empowered employees with practical knowledge, transforming them into a more security-conscious workforce and reducing the human element of risk.
 * **Proactive Risk Understanding:** Enabled business owners to better understand their digital risks and take concrete, actionable steps to protect their valuable assets.
 
-### 💡 Key Learnings from this Engagement
+### Key Learnings from this Engagement
 * The critical importance of adapting security solutions to the unique operational needs and resource constraints of small businesses.
 * Effective communication is paramount for translating complex technical concepts into actionable and understandable steps for non-technical stakeholders.
 * Even basic, consistently applied security controls can dramatically improve an organization's security posture and resilience against common threats.
 
 ---
 
-## 📄 Case Study 2: IT & Cybersecurity Support for a Community Non-Profit
+## Case Study 2: IT & Cybersecurity Support for a Community Non-Profit
 
-### 🤝 Client & Role
+### Client & Role
 * **Client:** A Local Community Non-Profit
 * **My Role:** IT & Cybersecurity Support Volunteer
 * **Engagement Period:** March 2025 – June 2025
 
-### ☁️ Identified Challenges & Risks
+### Identified Challenges & Risks
 This non-profit faced challenges common to organizations with limited IT personnel, including:
 
 * **Undocumented Digital Assets:** A lack of clear inventory for critical digital assets and their associated data.
@@ -74,7 +74,7 @@ This non-profit faced challenges common to organizations with limited IT personn
 * **Basic Security Gaps:** Generic security configurations and a lack of specific, enforced security policies.
 * **Staff Cybersecurity Knowledge Gaps:** Varying levels of awareness regarding common cyber threats and secure practices among staff members.
 
-### 🧠 My Methodology & Solutions Implemented
+### My Methodology & Solutions Implemented
 My support involved a blend of reactive technical troubleshooting and proactive security enhancements, working closely with leadership to strengthen their digital resilience and operational efficiency.
 
 1.  **Critical Asset Identification & Threat Assessment:**
@@ -97,19 +97,19 @@ My support involved a blend of reactive technical troubleshooting and proactive 
         * **Secure Device Use:** Guidelines for securing personal and organizational devices (e.g., screen locking, public Wi-Fi safety).
         * **Data Handling:** Awareness of sensitive data protection and responsible sharing practices.
 
-### 📈 Impact & Results
+### Impact & Results
 * **Improved Network Reliability:** Reduced downtime and enhanced the seamless operation of critical organizational services and administrative functions.
 * **Strengthened Security Posture:** Directly enhanced organizational security by implementing specific technical controls like refined firewall rules and enforced password policies.
 * **Elevated Staff Awareness:** Equipped members with practical knowledge, transforming them into a more security-conscious workforce and reducing the human element of risk through informed decisions.
 * **Proactive Risk Management:** Supported leadership in identifying and prioritizing digital risks, moving towards a more proactive security stance.
 
-### 💡 Key Learnings from this Engagement
+### Key Learnings from this Engagement
 * The importance of versatile troubleshooting skills in a dynamic IT support environment, often requiring adaptability with limited resources.
 * Successfully translating fundamental security requirements into actionable configurations for non-technical leadership.
 * The effectiveness of tailored awareness training in fostering a security-first culture within an organization, regardless of its size or budget.
 
 ---
 
-## 🤝 Connect
+## Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ezra-park-779325330/) if you have any questions or feedback.
